@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+#header{
+    
+    position: absolute;
+    color: red;
+    text-align: center;
+    width: 100%;
+    
+}

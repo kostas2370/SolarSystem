@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAGA","sources":["Desktop/hliako systhma/src/css/style.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n}\r\n#header{\r\n    \r\n    position: absolute;\r\n    color: red;\r\n    text-align: center;\r\n    width: 100%;\r\n    \r\n}"],"names":[],"version":3,"file":"index.8e3367ef.css.map","sourceRoot":"/__parcel_source_root/"}
