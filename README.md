@@ -26,8 +26,11 @@ npx parcel src/index.html
 >The Solar System website features the following:
 
 >1.A 3D model of the Solar System, including the Sun, planets, and moons
+>
 >2.Realistic textures and lighting
+>
 >3.The ability to toggle the display of planet orbits
+>
 >4.nteractive controls to rotate and zoom the camera view
 
 #Dependecies :
