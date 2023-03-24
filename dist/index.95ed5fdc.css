@@ -1,0 +1,15 @@
+@import "https://fonts.cdnfonts.com/css/minecraft-4";
+body {
+  margin: 0;
+}
+
+#header {
+  color: #2bff00;
+  text-align: center;
+  width: 100%;
+  font-family: Minecraft, sans-serif;
+  font-size: 55px;
+  position: absolute;
+}
+
+/*# sourceMappingURL=index.95ed5fdc.css.map */
