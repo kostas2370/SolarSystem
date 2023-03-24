@@ -8,6 +8,9 @@ A simple website , that simulates our solar system :
 **How to install**
 
 >Clone the repository
+>
 >npm install three
+>
 >npm parcel
+>
 >npx parcer <path for the html file>
