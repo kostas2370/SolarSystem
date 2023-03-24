@@ -21,10 +21,10 @@ npm install three
 npm install parcel
 npx parcel src/index.html
 ```
->Features
-
+>**Features**
+>
 >The Solar System website features the following:
-
+>
 >1.A 3D model of the Solar System, including the Sun, planets, and moons
 >
 >2.Realistic textures and lighting
@@ -33,7 +33,7 @@ npx parcel src/index.html
 >
 >4.nteractive controls to rotate and zoom the camera view
 
-#Dependecies :
+**Dependecies :**
 
 >The Solar System website uses the following dependencies:
 >
