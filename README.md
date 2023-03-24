@@ -35,7 +35,9 @@ npx parcel src/index.html
 >The Solar System website uses the following dependencies:
 >
 >Three.js: a 3D graphics library that provides the core rendering engine
+>
 >OrbitControls: a Three.js plugin that provides easy-to-use controls for rotating and zooming the camera view
+>
 >Parcel: a zero-configuration bundler that automatically handles dependencies and builds the project
 
 The textures provided by here : https://www.solarsystemscope.com/textures/
